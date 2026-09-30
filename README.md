@@ -47,3 +47,7 @@ Buka terminal atau command prompt, lalu jalankan perintah berikut:
 ```bash
 git clone [https://github.com/anandarizkia25/mau-jajan.git](https://github.com/anandarizkia25/mau-jajan.git)
 cd mau-jajan
+
+### 2. Install Dependensi PHP (Composer)
+```bash
+composer install

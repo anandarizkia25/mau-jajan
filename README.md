@@ -11,11 +11,11 @@
 
 ---
 
-Aplikasi web **pemesanan makanan dan manajemen restoran berbasis Laravel** yang dibuat untuk memudahkan pelanggan dalam melihat menu, melakukan pemesanan, dan menghitung total pembayaran secara otomatis[cite: 2].
+Aplikasi web **pemesanan makanan dan manajemen restoran berbasis Laravel** yang dibuat untuk memudahkan pelanggan dalam melihat menu, melakukan pemesanan, dan menghitung total pembayaran secara otomatis.
 
-Aplikasi ini juga dilengkapi dengan **panel admin/kasir** untuk mengelola data menu serta memantau dan memperbarui status pesanan yang masuk[cite: 2].
+Aplikasi ini juga dilengkapi dengan **panel admin/kasir** untuk mengelola data menu serta memantau dan memperbarui status pesanan yang masuk.
 
-> 📌 Proyek ini disusun untuk memenuhi kriteria **Uji Kompetensi Keahlian (UKK)** skema **Junior Web Programmer**[cite: 2].
+> 📌 Proyek ini disusun untuk memenuhi kriteria **Uji Kompetensi Keahlian (UKK)** skema **Junior Web Programmer**.
 
 ---
 
